@@ -1,0 +1,23 @@
+{
+  "name": "utilityFunc",
+  "version": "1.0.0",
+  "description": "前端轻量级工具函数",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitbu/utilityFunc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitbu/utilityFunc/issues"
+  },
+  "homepage": "https://github.com/gitbu/utilityFunc#readme"
+}
